@@ -36,7 +36,7 @@ HR-агентство изучает тренды на рынке труда в 
 
 ### Краткая информация о данных
 Все необходимые таблицы находятся в схеме public базы данных project_sql.
-Структура данных приведена [здесь](https://github.com/dnt1971/SkillFactory_DST_3_0_EDA_4_project_01/blob/master/data/ds_salaries.csv). Версии библиотек [тут]https://github.com/dnt1971/SkillFactory_DST_3_0_EDA_4_project_01/blob/master/ver.txt). Первичный файл с данными можно взяять  [здесь](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@ds_salaries.zip)
+Структура данных приведена [здесь](https://github.com/dnt1971/SkillFactory_DST_3_0_EDA_4_project_01/blob/master/data/ds_salaries.csv). Версии библиотек [тут](https://github.com/dnt1971/SkillFactory_DST_3_0_EDA_4_project_01/blob/master/ver.txt). Первичный файл с данными можно взяять  [здесь](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@ds_salaries.zip)
 
 :arrow_up:[к оглавлению](#оглавление)
 
